@@ -1,13 +1,15 @@
 # wisp
-まずお使いの端末にnodejsいれてください(replitやgithub codespaceやcodesandbox使う人は最初から入ってます)そんでこのリポジトリをクローン/複製してください
+まずお使いの端末にnodejsを入れましょう(replit,codespace,codesandboxを使う人は最初から入ってます)そんでこのリポジトリをダウンロード/複製してください
 そんでターミナルに
 
 npm install @mercuryworkshop/wisp-js　うってから
 
 node index.js　うつ
 
-ターミナルにwisp serverがどうのこうのって出れば成功
+ターミナルにwisp serverがどうのこうのって出れば成功だよ
 
 
-適当に書いたからなんかわからなかったら聞いて
+適当に書いたからなんかわからなかったら聞いてね
 
+
+もちろん僕はjsなんてかけるはずないのでindex.jsのやつはAIにやってもらいました
