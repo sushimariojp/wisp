@@ -12,5 +12,5 @@ server.on('upgrade', (req, socket, head) => {
 const PORT = process.env.PORT || 8080;
 
 server.listen(PORT, () => {
-    console.log(`wisp server is stareted`);
+    console.log(`wisp proxyが実行されました`);
 });
