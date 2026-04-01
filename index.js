@@ -27,7 +27,6 @@ const server = http.createServer((req, res) => {
                 function copy() {
                     const text = document.getElementById('url').innerText;
                     
-                    // 強制コピー方式（古い方法ですが確実です）
                     const textArea = document.createElement("textarea");
                     textArea.value = text;
                     document.body.appendChild(textArea);
